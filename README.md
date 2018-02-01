@@ -1,4 +1,4 @@
-# coursework_cplus
+# C++ Weatherstation
 C++ Coursework and Practice 
 Objective of this course was to complete a C++ Weatherstation.
 The objective of the project was to grasp a better understanding of OOP programming using the C++ language.
