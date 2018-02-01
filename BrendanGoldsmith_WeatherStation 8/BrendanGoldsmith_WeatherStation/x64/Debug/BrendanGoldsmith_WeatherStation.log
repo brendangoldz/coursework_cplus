@@ -1,0 +1,10 @@
+﻿  wind.cpp
+\\zorak2\users$\s0963551\desktop\brendangoldsmith_weatherstation\brendangoldsmith_weatherstation\wind.cpp(21): error C2011: 'Wind': 'class' type redefinition
+  \\zorak2\users$\s0963551\desktop\brendangoldsmith_weatherstation\brendangoldsmith_weatherstation\wind.h(9): note: see declaration of 'Wind'
+  weather_measure.cpp
+\\zorak2\users$\s0963551\desktop\brendangoldsmith_weatherstation\brendangoldsmith_weatherstation\weather_measure.cpp(9): error C2011: 'MeasureWeather': 'class' type redefinition
+  \\zorak2\users$\s0963551\desktop\brendangoldsmith_weatherstation\brendangoldsmith_weatherstation\weather_measure.h(9): note: see declaration of 'MeasureWeather'
+  temp.cpp
+\\zorak2\users$\s0963551\desktop\brendangoldsmith_weatherstation\brendangoldsmith_weatherstation\temp.cpp(20): error C2011: 'Temp': 'class' type redefinition
+  \\zorak2\users$\s0963551\desktop\brendangoldsmith_weatherstation\brendangoldsmith_weatherstation\temp.h(4): note: see declaration of 'Temp'
+  Generating Code...
